@@ -75,4 +75,4 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 
 ## Contact
 
-For any inquiries or issues, please contact ayushkumawat2112@gmail.com.
+For any inquiries or issues, please contact abhishekindore786@gmail.com .
